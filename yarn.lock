@@ -2,6 +2,18 @@
 # yarn lockfile v1
 
 
+"@panosen/css-in-js@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@panosen/css-in-js/-/css-in-js-0.2.0.tgz#e82f1e9f7aba140932a85a3e2004d965048759a3"
+  integrity sha512-vyCQHcw7+dKvOwGGJajry3UwpLIyAjynIqv4nBMvdrm5bY7homx3Mwo6JqRqiPPUQX81wZmwu131t1YAaNL+eg==
+  dependencies:
+    "@panosen/murmur-hash" "^0.1.0"
+
+"@panosen/murmur-hash@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@panosen/murmur-hash/-/murmur-hash-0.1.0.tgz#e8f2511d340220ede4c98e6e25f0a9a742b05102"
+  integrity sha512-D99q7cdVPNVT3FIzdpwPgK1bDf1H03WlhHsd4mZDXUOwXnAntCeM2OhOUM8xlJYnAJax9wxlNySTTkGNf8kI/w==
+
 "@types/prop-types@*":
   version "15.7.9"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.9.tgz#b6f785caa7ea1fe4414d9df42ee0ab67f23d8a6d"

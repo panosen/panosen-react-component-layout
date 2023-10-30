@@ -1,6 +1,6 @@
 {
   "name": "@panosen/rc-layout",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "public"
   },
@@ -21,5 +21,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@panosen/css-in-js": "^0.2.0"
+  }
 }
